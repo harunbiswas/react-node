@@ -4,5 +4,11 @@
 // basic styles
 @import "./basic";
 
+// header
+@import "./shared/mainHeader";
+
+// navigation
+@import "./shared/mainNavigation";
+
 // user style
 @import "./user/user";
